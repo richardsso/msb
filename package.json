@@ -5,7 +5,7 @@
     "@mapbox/mapbox-gl-geocoder": "^4.4.1",
     "@rails/webpacker": "^4.0.7",
     "bootstrap": "^4.3.1",
-    "grunt": "^1.0.4",
+    "grunt": "^1.5.3",
     "jquery": "^3.4.1",
     "mapbox-gl": "^1.2.0",
     "places.js": "^1.16.4",
